@@ -3,8 +3,8 @@
 **Type One Buddy** is a one stop shop for everything that someone with T1D would ever need! There is a space to post, and see other posts, to share how you are doing in your T1D journey! There is even a dictionary of all the foods and the carbs, to make carb counting easy! And a place to store your blood sugar values!
 
 **WIREFRAMES:**
-https://drive.google.com/file/d/1ZPkRmi7UImR-u_crfaSpC8h88x3rhGam/view?usp=sharing
 
+![image](https://user-images.githubusercontent.com/33184844/118065210-744f2980-b351-11eb-937b-e86b811f1838.png)
 
 ## User Stories
 
